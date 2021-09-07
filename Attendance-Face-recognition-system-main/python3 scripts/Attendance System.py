@@ -6,6 +6,7 @@ Created on Mon Sep 21 23:54:13 2020
 import cv2
 import face_recognition 
 import os
+
 import numpy as np
 from datetime import datetime
 import databaseScript
